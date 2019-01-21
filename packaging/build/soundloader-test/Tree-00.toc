@@ -1,0 +1,6 @@
+('../testapp/',
+ None,
+ [],
+ 'DATA',
+ [('test.kv', '../testapp/test.kv', 'DATA'),
+  ('main.py', '../testapp/main.py', 'DATA')])
